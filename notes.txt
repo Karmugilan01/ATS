@@ -1,0 +1,4 @@
+1 . field to put my jd
+2 . upload pdf
+3 . pdf ---> image ---> processing ----> google gemini pro
+4 . prompts template[multiple prompts]
